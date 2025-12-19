@@ -187,9 +187,7 @@ uvicorn main:app --reload
 
 ---
 
-## 🎓 Interview-Ready Summary
 
-> Built a production-style multi-modal RAG system capable of answering questions over complex documents containing text, tables, and scanned images. Designed an OCR-enabled ingestion pipeline, layout-aware chunking, unified embeddings, and vector-based retrieval with citation-backed answer generation using LLMs.
 
 ---
 
